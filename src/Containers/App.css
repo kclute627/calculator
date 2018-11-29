@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+table{
+  margin: 0 auto;
+  padding-top: 150px;
+
+}
+
+
+tr td{
+  width: 55px;
+  height: 55px;
+  border: 1px solid black; 
+}
